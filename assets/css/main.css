@@ -2581,6 +2581,11 @@ input, select, textarea {
 
 /* Major Icons */
 
+	.icon-logo {
+		height: 280px;
+		width: 280px;
+	}
+
 	ul.major-icons {
 		list-style: none;
 		padding-left: 0;
@@ -2590,11 +2595,8 @@ input, select, textarea {
 			display: inline-block;
 			padding: 2.5em;
 			text-align: center;
-			width: 280px;
-			height: 280px;
 		}
 
-		
 
 			ul.major-icons li .icon {
 				-moz-transform: rotate(45deg);
