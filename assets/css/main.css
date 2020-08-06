@@ -2392,6 +2392,7 @@ input, select, textarea {
 
 			.image.fit img {
 				width: 100%;
+
 			}
 
 /* List */
@@ -2589,7 +2590,11 @@ input, select, textarea {
 			display: inline-block;
 			padding: 2.5em;
 			text-align: center;
+			width: 280px;
+			height: 280px;
 		}
+
+		
 
 			ul.major-icons li .icon {
 				-moz-transform: rotate(45deg);
