@@ -2581,10 +2581,10 @@ input, select, textarea {
 
 /* Major Icons */
 
-	.fab {
+	/* .fab {
 		height: 280px;
 		width: 280px;
-	}
+	} */
 
 	ul.major-icons {
 		list-style: none;
