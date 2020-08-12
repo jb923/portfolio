@@ -2593,8 +2593,9 @@ input, select, textarea {
 
 		ul.major-icons li {
 			display: inline-block;
-			padding: 2.5em;
+			padding: 1em;
 			text-align: center;
+			font-size: 4em;
 		}
 
 
